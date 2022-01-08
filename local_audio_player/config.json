@@ -1,8 +1,8 @@
 {
-  "name": "Audio Player",
+  "name": "Local Audio Player",
   "version": "1.11",
   "slug": "audio_player",
-  "description": "Play audio files",
+  "description": "Play local audio files",
   "startup": "before",
   "boot": "auto",
   "stdin": true,

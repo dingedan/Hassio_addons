@@ -1,0 +1,14 @@
+{
+  "name": "Audio Player",
+  "version": "1.11",
+  "slug": "audio_player",
+  "description": "Play audio files",
+  "startup": "before",
+  "boot": "auto",
+  "stdin": true,
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "audio": true,
+  "options": {},
+  "schema": {},
+  "host_network": true
+}

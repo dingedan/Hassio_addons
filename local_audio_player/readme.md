@@ -4,6 +4,9 @@ Installation
 3. If the add-on is not listed under 'Local add-ons', hit 'reload' from the 'more' menu. 
 4. Install
 
+OR
+1. Add my repository https://github.com/dingedan/Hassio_addons/ and install that way
+
 Usage
 ```yaml
       - service: hassio.addon_stdin     
